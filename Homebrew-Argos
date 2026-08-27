@@ -1,0 +1,656 @@
+# A.R.G.O.S.
+## Autómata Rúnico de Guerra, Operaciones y Soporte
+
+*Un defensor de acero experimental creado y modificado por Archibald Theodoric Bartholomeus Bronzengard III.*
+
+### El proyecto A.R.G.O.S.
+
+A.R.G.O.S., acrónimo de **Autómata Rúnico de Guerra, Operaciones y Soporte**, comenzó su existencia como un Defensor de Acero convencional. Sin embargo, para Archibald Bronzengard, su creación nunca fue simplemente un acompañante mecánico.
+
+Desde el momento de su construcción, A.R.G.O.S. se convirtió en una plataforma experimental: una máquina destinada a crecer junto a su creador y a servir como laboratorio móvil para sus investigaciones sobre artificiería, mecanismos autónomos y energía arcana.
+
+Cada modificación importante representa una nueva etapa en la investigación de Archibald. A medida que el artífice adquiere nuevas capacidades, comprende mejor los principios que gobiernan la magia y desarrolla sistemas cada vez más complejos para integrarlos en su creación.
+
+A.R.G.O.S. no es simplemente un constructo terminado.
+
+Es un proyecto en constante evolución.
+
+### Información General
+
+**Nombre** :: A.R.G.O.S.
+
+**Nombre completo** :: Autómata Rúnico de Guerra, Operaciones y Soporte
+
+**Creador** :: Archibald Theodoric Bartholomeus Bronzengard III
+
+**Tipo** :: Constructo Mediano
+
+**Alineamiento** :: Sin alineamiento
+
+**Origen** :: Defensor de Acero modificado
+
+
+
+![A.R.G.O.S.](https://raw.githubusercontent.com/cristobalcarrio9-debug/DND-Archibald/b85bb145edc9c408d360ec00288c218f0240ac1f/ARGOSDND.png){width:100%}
+{width:100%}
+
+
+
+
+
+# A.R.G.O.S.
+## Perfil del Defensor
+
+*Constructo Mediano, sin alineamiento*
+
+A.R.G.O.S. es amistoso contigo y con tus compañeros y obedece tus órdenes.
+
+En combate, comparte tu orden de iniciativa, pero su turno ocurre inmediatamente después del tuyo. Puede moverse y utilizar su propia reacción, pero la única acción que realiza normalmente durante su turno es **Esquivar**, a menos que utilices una acción adicional durante tu turno para ordenarle realizar otra acción disponible en su perfil.
+
+Si estás incapacitado, A.R.G.O.S. puede realizar cualquier acción disponible y no está limitado únicamente a Esquivar.
+
+Si se lanza el conjuro **Reparar** sobre A.R.G.O.S., recupera **2d6 puntos de golpe**.
+
+Si A.R.G.O.S. ha muerto durante la última hora, puedes utilizar tus herramientas de herrero para devolverlo a la vida como acción, siempre que te encuentres a 5 pies o menos de él y gastes un espacio de conjuro de nivel 1 o superior. A.R.G.O.S. vuelve a funcionar después de 1 minuto con todos sus puntos de golpe recuperados.
+
+Después de un descanso largo, puedes construir un nuevo Defensor de Acero utilizando tus herramientas de herrero. Si ya posees un Defensor de Acero, el anterior deja de funcionar.
+
+A.R.G.O.S. también deja de funcionar si mueres.
+
+---
+
+### Estadísticas Base
+
+**Clase de Armadura** :: 15 (armadura natural)
+
+**Puntos de Golpe** :: 2 + modificador de Inteligencia del Artífice + cinco veces el nivel de Artífice
+
+**Dados de Golpe** :: Una cantidad de d8 igual al nivel de Artífice
+
+**Velocidad** :: 40 pies
+
+| FUE | DES | CON | INT | SAB | CAR |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14 (+2) | 12 (+1) | 14 (+2) | 4 (-3) | 10 (+0) | 6 (-2) |
+
+{{pageNumber 1}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
+
+\page
+
+### Defensas y Capacidades
+
+**Tiradas de Salvación** :: Des +1 + BC, Con +2 + BC
+
+**Habilidades** :: Atletismo +2 + BC, Percepción +0 + (BC × 2)
+
+**Sentidos** :: Visión en la oscuridad 60 pies
+
+**Percepción Pasiva** :: 10 + (BC × 2)
+
+**Idiomas** :: Entiende los idiomas que habla su creador
+
+**Inmunidades al Daño** :: Veneno
+
+**Inmunidades a Estados** :: Hechizado, cansancio, envenenado
+
+**Bonificador por Competencia** :: Igual al del Artífice
+
+
+
+### Rasgos
+
+#### Vigilante
+
+A.R.G.O.S. no puede ser sorprendido.
+
+### Reacciones
+
+#### Desviar Ataque
+
+Cuando una criatura que A.R.G.O.S. pueda ver realiza una tirada de ataque contra una criatura que no sea A.R.G.O.S., el constructo puede utilizar su reacción para imponer desventaja a dicha tirada.
+
+Antes de nivel 15, el atacante debe encontrarse a **5 pies o menos** de A.R.G.O.S.
+
+A partir de nivel 15, el alcance de esta reacción aumenta a **10 pies**.
+
+### Una creación en evolución
+
+Las siguientes modificaciones no aparecen todas al mismo tiempo.
+
+A.R.G.O.S. evoluciona junto a Archibald. Cada nuevo modelo representa una etapa importante en las investigaciones del artífice y coincide con momentos en los que adquiere nuevas capacidades o conocimientos.
+
+Algunas mejoras son puramente narrativas y representan visualmente habilidades oficiales del Artífice. Otras constituyen las modificaciones homebrew propias del proyecto.
+
+
+
+# A.R.G.O.S. Mk. I
+## «Prototipo»
+
+### Nivel 3 — Cabina de Operaciones Bronzengard
+
+El torso de A.R.G.O.S. contiene una cabina experimental diseñada para alojar a una criatura Pequeña.
+
+Mediante un sistema de engranajes, pistones, placas móviles y mecanismos rúnicos, el asiento de control puede desplazarse desde una posición exterior hasta el interior del constructo.
+
+La cabina fue diseñada originalmente como una solución práctica a uno de los principales problemas encontrados por Archibald durante sus primeras investigaciones: la necesidad de trabajar junto al constructo sin quedar expuesto constantemente al campo de batalla.
+
+Mientras Archibald se encuentra dentro de la cabina:
+
+- Archibald y A.R.G.O.S. continúan siendo criaturas independientes.
+- Cada uno conserva sus propios puntos de golpe.
+- Cada uno conserva sus propias acciones.
+- Cada uno conserva sus propias acciones adicionales.
+- Cada uno conserva sus propias reacciones.
+
+Esta modificación no proporciona beneficios mecánicos adicionales.
+
+La cabina representa principalmente la forma en que Archibald pilota e interactúa físicamente con A.R.G.O.S.
+
+### Filosofía del Prototipo
+
+A.R.G.O.S. Mk. I todavía conserva gran parte de la estructura conceptual de un Defensor de Acero convencional.
+
+Su función principal es proteger a Archibald, asistirlo durante el combate y proporcionar una plataforma física sobre la cual puedan instalarse futuras modificaciones.
+
+Sin embargo, incluso en esta primera versión, el diseño del constructo revela la intención de su creador.
+
+A.R.G.O.S. no fue construido para permanecer igual.
+
+Fue construido para poder ser reconstruido.
+
+{{pageNumber 2}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
+
+\page
+
+## Nivel 5
+# A.R.G.O.S. Mk. II
+## «Plataforma Pilotada»
+
+### Sistema de Armamento Pilotado
+
+A.R.G.O.S. incorpora sistemas de armamento controlados directamente por Archibald desde el interior de la cabina.
+
+Las armas utilizadas por Archibald pueden adoptar narrativamente la forma de:
+
+- Pistolas integradas.
+- Cañones mecánicos.
+- Proyectores arcanos.
+- Brazos armados.
+- Sistemas hidráulicos.
+- Otros mecanismos apropiados.
+
+Esta mejora no concede ataques adicionales a A.R.G.O.S.
+
+
+Cuando Archibald realiza la acción **Atacar**, puede describir sus ataques como realizados mediante sistemas integrados en el chasis de A.R.G.O.S.
+
+Cuando Archibald obtiene **Ataque Extra**, ambos ataques pueden realizarse mediante dichos sistemas.
+
+Mecánicamente, los ataques continúan perteneciendo a Archibald y utilizan sus propias características, armas y reglas.
+
+Narrativamente, sin embargo, el campo de batalla comienza a ver algo diferente.
+
+Archibald ya no parece luchar *junto* a su constructo.
+
+Parece luchar **a través de él**.
+
+### Resultado
+
+La Mk. II representa el momento en que A.R.G.O.S. deja de ser únicamente un defensor y comienza a convertirse en una verdadera plataforma de combate.
+
+
+
+# A.R.G.O.S. Mk. III
+## «Armamento Autónomo»
+
+### Nivel 7 — Sistema de Armamento Autónomo
+
+Después de múltiples pruebas, Archibald consigue separar parcialmente el sistema ofensivo de A.R.G.O.S. de los controles directos de la cabina.
+
+El constructo incorpora una **Pistola Integrada**, un arma independiente de aquellas utilizadas directamente por Archibald.
+
+Esta arma puede estar montada narrativamente en:
+
+- Un hombro.
+- Un brazo.
+- El torso.
+- Una plataforma retráctil.
+- Cualquier otra sección apropiada del chasis.
+
+Cuando A.R.G.O.S. recibe una orden para realizar una acción ofensiva, puede elegir entre:
+
+- **Desgarro Potenciado por Fuerza**
+- **Pistola Integrada**
+
+### Pistola Integrada
+
+*A partir de nivel 7.*
+
+**Ataque con arma a distancia:** el modificador de ataque de conjuros del Artífice para impactar.
+
+**Alcance:** 60/180 pies.
+
+**Objetivo:** una criatura que puedas ver.
+
+**Impacto:** `1d8 + Bonificador por Competencia` de daño de fuerza.
+
+La Pistola Integrada pertenece a los sistemas autónomos de A.R.G.O.S.
+
+No debe confundirse con las armas utilizadas directamente por Archibald mediante el Sistema de Armamento Pilotado.
+
+
+
+# A.R.G.O.S. Mk. IV
+## «Combate Dual»
+
+### Nivel 9 — Sistema de Combate Dual
+
+Las mejoras realizadas en los sistemas de cálculo, servomotores y mecanismos rúnicos permiten a A.R.G.O.S. ejecutar una secuencia ofensiva completa.
+
+A partir de este nivel obtiene la siguiente acción.
+
+{{pageNumber 3}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
+
+\page
+
+### Multiataque
+
+A.R.G.O.S. realiza **dos ataques**.
+
+Para cada ataque puede elegir independientemente entre:
+
+- **Desgarro Potenciado por Fuerza**
+- **Pistola Integrada**
+
+Puede realizar cualquiera de las siguientes combinaciones:
+
+**Desgarro + Desgarro**
+
+**Desgarro + Pistola Integrada**
+
+**Pistola Integrada + Pistola Integrada**
+
+Los ataques pueden dirigirse contra el mismo objetivo o contra objetivos diferentes.
+
+A menos que otra característica indique lo contrario, Archibald debe utilizar una **acción adicional** durante su turno para ordenar a A.R.G.O.S. realizar esta acción.
+
+### Sistema de combate
+
+Esta mejora representa el primer momento en que A.R.G.O.S. puede ejecutar una secuencia ofensiva coordinada sin depender completamente de un único mecanismo.
+
+El constructo ya no está limitado a reaccionar.
+
+Ahora puede seleccionar armas, cambiar objetivos y combinar sistemas ofensivos dentro de una misma orden.
+
+
+
+# A.R.G.O.S. Mk. V
+## «Núcleo Taumatúrgico»
+
+### Nivel 11 — Núcleo de Almacenamiento Taumatúrgico
+
+A.R.G.O.S. incorpora un núcleo especializado diseñado para alojar físicamente el **Objeto de Almacenamiento de Hechizos** creado por Archibald.
+
+El objeto puede integrarse en el interior del constructo como parte de su estructura.
+
+Esta integración **no modifica las reglas oficiales del Objeto de Almacenamiento de Hechizos**.
+
+Dependiendo del hechizo almacenado, el sistema puede adoptar diferentes formas narrativas.
+
+### Configuraciones posibles
+
+**Hechizo ofensivo** :: Cañón arcano.
+
+**Hechizo de energía** :: Proyector rúnico.
+
+**Hechizo de apoyo** :: Sistema especializado.
+
+**Hechizo de curación** :: Módulo médico o mecanismo de reparación.
+
+**Hechizo defensivo** :: Generador de campo protector.
+
+La integración física del objeto no modifica:
+
+- Su número de usos.
+- Los requisitos del hechizo.
+- El tiempo de lanzamiento.
+- El alcance.
+- La concentración.
+- Quién puede utilizar el objeto.
+- Ninguna otra regla original.
+
+
+
+![A.R.G.O.S.V2](https://raw.githubusercontent.com/cristobalcarrio9-debug/DND-Archibald/b85bb145edc9c408d360ec00288c218f0240ac1f/ARGOSV2DND.png){width:100%}
+
+### Reforzamiento estructural
+
+En esta etapa, la Clase de Armadura de A.R.G.O.S. aumenta:
+
+**15 → 17**
+
+Narrativamente, esto representa una reconstrucción significativa del chasis.
+
+El constructo recibe nuevas placas, refuerzos internos y modificaciones estructurales capaces de soportar la creciente cantidad de sistemas mágicos y mecánicos instalados en su interior.
+
+
+
+{{pageNumber 4}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
+
+\page
+
+
+
+# A.R.G.O.S. Mk. VI
+## «Bastión Modular»
+
+### Nivel 15 — Blindaje Reforzado
+
+A.R.G.O.S. recibe las mejoras correspondientes a una reconstrucción completa de sus sistemas defensivos.
+
+Su Clase de Armadura aumenta:
+
+**17 → 17 + Bonificador por Competencia**
+
+Narrativamente, esto representa:
+
+- Placas reforzadas.
+- Blindaje modular.
+- Mejoras estructurales.
+- Estabilizadores.
+- Sistemas defensivos avanzados.
+- Protección rúnica integrada.
+
+A.R.G.O.S. ya no es simplemente un Defensor de Acero modificado.
+
+A estas alturas, la mayor parte de su estructura ha sido reemplazada, mejorada o reconstruida.
+
+### Desviar Ataque Mejorado
+
+A partir de nivel 15, cuando A.R.G.O.S. utiliza su reacción **Desviar Ataque**, puede afectar un ataque realizado contra una criatura situada a:
+
+**10 pies o menos de A.R.G.O.S.**
+
+En lugar de:
+
+**5 pies.**
+
+
+
+### Sistema de Combate Modular
+
+La estructura de A.R.G.O.S. ha sido diseñada para permitir la integración narrativa de nuevos dispositivos.
+
+Objetos mágicos, focos y mecanismos pueden describirse como instalados físicamente en el constructo.
+
+### Ejemplos
+
+**Varita** :: Puede adoptar la apariencia de un cañón.
+
+**Foco arcano** :: Puede integrarse en el núcleo del constructo.
+
+**Objeto mágico** :: Puede convertirse narrativamente en un módulo mecánico.
+
+**Herramienta especializada** :: Puede desplegarse desde uno de sus compartimentos.
+
+**Sistema defensivo** :: Puede representarse mediante placas móviles o generadores rúnicos.
+
+Esta característica no modifica las reglas mecánicas de los objetos integrados.
+
+La modificación es principalmente narrativa y permite que las herramientas, focos y objetos utilizados por Archibald formen parte visualmente de la evolución de A.R.G.O.S.
+
+### Filosofía de la Mk. VI
+
+La estructura del constructo deja de estar diseñada alrededor de un único propósito.
+
+A.R.G.O.S. se convierte en una plataforma modular.
+
+Cada nuevo descubrimiento de Archibald puede convertirse, al menos en teoría, en una nueva pieza del sistema.
+
+
+
+# A.R.G.O.S. Mk. VII
+# «PROTOCOLO OMEGA»
+
+### Nivel 20
+
+Después de años de modificaciones, reconstrucciones y experimentos, Archibald activa la configuración definitiva de A.R.G.O.S.
+
+El **Protocolo OMEGA** no representa una nueva pieza de armadura ni una simple mejora de armamento.
+
+Es la activación simultánea de todos los sistemas del constructo.
+
+---
+
+### Protocolo OMEGA
+
+**Frecuencia** :: 1 vez por descanso largo.
+
+**Activación** :: Como parte de la acción adicional utilizada para ordenar a A.R.G.O.S. realizar una acción.
+
+**Duración** :: 1 minuto.
+
+Mientras el Protocolo OMEGA está activo, A.R.G.O.S. puede utilizar su acción **Multiataque** durante su turno sin que Archibald tenga que gastar una acción adicional para ordenárselo.
+
+A.R.G.O.S. continúa realizando su turno inmediatamente después del turno de Archibald.
+
+Cuando el Protocolo OMEGA termina, el constructo vuelve a seguir las reglas normales de funcionamiento.
+{{pageNumber 5}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
+
+\page
+### Multiataque OMEGA
+
+Mientras el Protocolo OMEGA está activo, la capacidad ofensiva de A.R.G.O.S. alcanza su configuración máxima.
+
+Su Multiataque pasa de dos ataques a **cuatro ataques**.
+
+Para cada ataque puede elegir independientemente entre:
+
+- Desgarro Potenciado por Fuerza.
+- Pistola Integrada.
+
+Los cuatro ataques pueden dirigirse contra un mismo objetivo o distribuirse entre diferentes criaturas.
+
+
+
+
+![A.R.G.O.S.](https://raw.githubusercontent.com/cristobalcarrio9-debug/DND-Archibald/b85bb145edc9c408d360ec00288c218f0240ac1f/ARGOSV3DND.png){width:100%}
+
+### Sistemas Arcanos de Emergencia
+
+Durante el Protocolo OMEGA, A.R.G.O.S. puede utilizar hechizos almacenados en pergaminos integrados en sus sistemas.
+
+Narrativamente, estos hechizos pueden ser activados mediante:
+
+- Compartimentos rúnicos.
+- Proyectores arcanos.
+- Núcleos de energía.
+- Sistemas de lanzamiento automatizados.
+- Módulos especializados.
+
+La utilización de estos pergaminos continúa estando sujeta a las reglas correspondientes a los objetos y hechizos utilizados.
+
+### La configuración definitiva
+
+Durante un minuto, A.R.G.O.S. deja de funcionar como una plataforma experimental.
+
+Todos sus sistemas son liberados.
+
+Las armas autónomas entran en funcionamiento.
+
+Los servomotores superan sus límites habituales.
+
+El núcleo taumaturgico distribuye energía a través de toda la estructura.
+
+Por primera vez, el proyecto Bronzengard opera como fue concebido originalmente.
+
+**Una máquina capaz de luchar, proteger, calcular y adaptarse simultáneamente.**
+
+
+
+
+
+# Perfil de Combate
+## Acciones
+
+### Desgarro Potenciado por Fuerza
+
+**Ataque con arma cuerpo a cuerpo:** el modificador de ataque de conjuros del Artífice para impactar.
+
+**Alcance:** 5 pies.
+
+**Objetivo:** una criatura que puedas ver.
+
+**Impacto:** `1d8 + Bonificador por Competencia` de daño de fuerza.
+
+Narrativamente, este ataque puede adoptar la forma de:
+
+- Garra mecánica.
+- Cuchillas retráctiles.
+- Puño hidráulico.
+- Sistema de corte.
+- Brazo reforzado.
+- Otro mecanismo cuerpo a cuerpo apropiado.
+
+### Pistola Integrada
+
+*Requisito: nivel 7.*
+
+**Ataque con arma a distancia:** el modificador de ataque de conjuros del Artífice para impactar.
+
+**Alcance:** 60/180 pies.
+
+**Objetivo:** una criatura que puedas ver.
+
+**Impacto:** `1d8 + Bonificador por Competencia` de daño de fuerza.
+
+La Pistola Integrada pertenece a los sistemas autónomos de A.R.G.O.S. y es independiente de las armas utilizadas directamente por Archibald.
+
+
+
+### Multiataque
+
+*Requisito: nivel 9.*
+
+A.R.G.O.S. realiza **dos ataques**.
+
+Para cada ataque puede elegir entre:
+
+- Desgarro Potenciado por Fuerza.
+- Pistola Integrada.
+
+Los ataques pueden dirigirse contra el mismo objetivo o contra objetivos diferentes.
+
+Normalmente, Archibald debe utilizar una acción adicional para ordenar a A.R.G.O.S. realizar esta acción.
+{{pageNumber 6}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
+
+\page
+### Reparación (3/Día)
+
+Los mecanismos mágicos del interior de A.R.G.O.S. permiten reparar componentes dañados.
+
+A.R.G.O.S. recupera:
+
+`2d8 + Bonificador por Competencia`
+
+puntos de golpe.
+
+Alternativamente, puede restaurar esa cantidad de puntos de golpe a:
+
+- Un autómata.
+- Un objeto.
+
+Siempre que se encuentre a 5 pies o menos del objetivo.
+
+### Desviar Ataque
+
+Cuando una criatura que A.R.G.O.S. pueda ver realiza una tirada de ataque contra una criatura que no sea A.R.G.O.S., puede utilizar su reacción para imponer desventaja a dicha tirada.
+
+**Antes de nivel 15:** el atacante debe encontrarse a 5 pies o menos.
+
+**A partir de nivel 15:** el atacante puede encontrarse a 10 pies o menos.
+
+
+
+# Progresión del Proyecto
+## Evolución de A.R.G.O.S.
+
+| Nivel | Modelo | Designación | Mejora principal |
+|:---:|:---|:---|:---|
+| 3 | Mk. I | **Prototipo** | Cabina de Operaciones Bronzengard |
+| 5 | Mk. II | **Plataforma Pilotada** | Sistema de Armamento Pilotado |
+| 7 | Mk. III | **Armamento Autónomo** | Pistola Integrada |
+| 9 | Mk. IV | **Combate Dual** | Multiataque |
+| 11 | Mk. V | **Núcleo Taumatúrgico** | Objeto de Almacenamiento de Hechizos y CA 17 |
+| 15 | Mk. VI | **Bastión Modular** | CA 17 + BC y Desviar Ataque mejorado |
+| 20 | Mk. VII | **Protocolo OMEGA** | Cuatro ataques y autonomía ofensiva temporal |
+
+### Nivel 3
+#### A.R.G.O.S. Mk. I — «Prototipo»
+
+- Defensor de Acero base.
+- Cabina de Operaciones Bronzengard.
+- Primera plataforma experimental.
+
+### Nivel 5
+#### A.R.G.O.S. Mk. II — «Plataforma Pilotada»
+
+- Sistema de Armamento Pilotado.
+- Archibald puede realizar sus ataques mediante sistemas integrados.
+- Representación narrativa del Ataque Extra.
+
+### Nivel 7
+#### A.R.G.O.S. Mk. III — «Armamento Autónomo»
+
+- Pistola Integrada.
+- Puede elegir entre Desgarro o Pistola al atacar.
+
+
+
+### Nivel 9
+#### A.R.G.O.S. Mk. IV — «Combate Dual»
+
+- Multiataque.
+- Dos ataques.
+- Cada ataque puede ser Desgarro o Pistola Integrada.
+
+### Nivel 11
+#### A.R.G.O.S. Mk. V — «Núcleo Taumatúrgico»
+
+- Integración del Objeto de Almacenamiento de Hechizos.
+- CA aumenta de 15 a 17.
+- Nuevos sistemas mágicos narrativos.
+
+### Nivel 15
+#### A.R.G.O.S. Mk. VI — «Bastión Modular»
+
+- CA aumenta a 17 + BC.
+- Desviar Ataque mejorado.
+- Sistema de Combate Modular.
+- Integración narrativa de nuevos dispositivos y objetos.
+
+### Nivel 20
+#### A.R.G.O.S. Mk. VII — «Protocolo OMEGA»
+
+- 1 vez por descanso largo.
+- Duración de 1 minuto.
+- Multiataque autónomo.
+- No requiere la acción adicional de Archibald para atacar.
+- El Multiataque aumenta a cuatro ataques.
+- Puede utilizar hechizos almacenados en pergaminos integrados en sus sistemas.
+
+{{note
+##### Nota de diseño
+La base mecánica de A.R.G.O.S. es el **Defensor de Acero del Herrero de Batalla**.
+
+Las modificaciones de nivel 7, nivel 9 y nivel 20 constituyen las principales características homebrew del proyecto. El resto de sistemas representan, principalmente, la evolución narrativa y visual de las capacidades obtenidas por Archibald como Artífice.
+}}
+
+{{pageNumber 7}}
+{{footnote A.R.G.O.S. | EL PROYECTO BRONZENGARD}}
